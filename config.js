@@ -2,9 +2,9 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
   siteUrl: 'https://lgcolella.github.io',
-  siteTitle: 'Luigi Colella',
-  siteDescription: 'Logbook of a software developer',
-  author: 'lcolella',
+  siteTitle: 'Bunleap',
+  siteDescription: 'Logbook of an independent developer',
+  author: 'bunleaps_',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   disqusScript: 'https://luigi-colella.disqus.com/embed.js',
@@ -16,7 +16,7 @@ module.exports = {
     archive: 'archive'
   },
   social: {
-    github: 'https://github.com/lgcolella',
+    github: 'https://github.com/bunleap-s',
     linkedin: '',
     rss: '/rss.xml'
   },
